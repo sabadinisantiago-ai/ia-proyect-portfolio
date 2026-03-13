@@ -57,10 +57,3 @@ La web va a estar corriendo hermosa en `http://localhost:5173`.
 
 ---
 
-## 🤖 Mi enfoque hacia la IA
-
-Como estudiante en la UTN y desarrollador C#/Python, mi objetivo a mediano plazo (camino a mi plan de trabajar en Islandia en 2027) es dominar la arquitectura de software para poder **supervisar código generado por IA**.
-
-Este proyecto es la prueba viviente de esa filosofía. En lugar de escribir cada `div` a mano, actué como arquitecto: diseñé la estructura de carpetas, definí cómo se comunicaban el front y el back, elegí la dirección de arte, y corregí el rumbo (el _fine-tuning_ al diseño Apple), mientras la IA se encargaba de la implementación dura.
-
-> "El código lo escribe la máquina, pero la arquitectura y la supervisión lógica la aporta el humano." — Santi Sabadini.
